@@ -1,2 +1,2 @@
 # calculator
-Calculator
+Calculator App to learn JS
