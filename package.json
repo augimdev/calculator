@@ -1,0 +1,23 @@
+{
+  "name": "augim-calc",
+  "version": "1.0.0",
+  "description": "Calculator App to learn JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/augimdev/calculator.git"
+  },
+  "dependencies": {
+    "tea-demonstration": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augimdev/calculator/issues"
+  },
+  "homepage": "https://github.com/augimdev/calculator#readme"
+}
