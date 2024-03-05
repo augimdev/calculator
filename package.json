@@ -1,6 +1,6 @@
 {
   "name": "augim-calc",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Calculator App to learn JS",
   "main": "index.js",
   "scripts": {
